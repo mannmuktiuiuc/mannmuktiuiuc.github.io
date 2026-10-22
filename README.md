@@ -1,2 +1,1 @@
-# mannmuktiuiuc.github.io
-MannMukti UIUC Website
+# MannMukti at Illinois Website
